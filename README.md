@@ -16,4 +16,4 @@ fd = fractal_dimension(image)
 print(f"Fractal dimension of the image: {fd}")
 ```
 
-### Note: OpenCV is not a strict requirement, but the image is expected to be formatted identically to OpenCV.
+### Note: OpenCV is not a strict requirement, but the image is expected to be formatted identically to OpenCV's grayscale representation.
